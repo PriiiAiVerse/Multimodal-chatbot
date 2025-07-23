@@ -97,9 +97,9 @@ Upload an image of a hoodie and say "something like this"
 📸 Screenshots (Add Yours Here)
 Streamlit UI	
 <img src="ScreenShorts/02.jpg" alt="Streamlit UI" width="400"/>
-<img src="ScreenShorts/04.jpg" alt="Android App UI" width="200"/>
+<img src="ScreenShorts/04.jpg" alt="Android App UI" width="400"/>
 <img src="ScreenShorts/03.jpg" alt="Streamlit UI" width="400"/>
-<img src="ScreenShorts/01.jpg" alt="Android App UI" width="200"/>
+<img src="ScreenShorts/01.jpg" alt="Android App UI" width="400"/>
 <img src="ScreenShorts/05.jpg" alt="Streamlit UI" width="400"/>
 
 
