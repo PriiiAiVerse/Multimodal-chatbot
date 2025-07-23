@@ -88,19 +88,17 @@ streamlit run app.py
 ```
 
 🔍 Sample Queries
-"Show me black heels under ₹2000"
 
-Upload an image of a hoodie and say "something like this"
-
-"I want a yellow saree"
+"sunny day outfit"
+<img src="ScreenShorts/05.jpg" alt="Streamlit UI" width="700"/>
 
 📸 Screenshots (Add Yours Here)
 Streamlit UI	
-<img src="ScreenShorts/02.jpg" alt="Streamlit UI" width="400"/>
-<img src="ScreenShorts/04.jpg" alt="Android App UI" width="400"/>
-<img src="ScreenShorts/03.jpg" alt="Streamlit UI" width="400"/>
-<img src="ScreenShorts/01.jpg" alt="Android App UI" width="400"/>
-<img src="ScreenShorts/05.jpg" alt="Streamlit UI" width="400"/>
+<img src="ScreenShorts/02.jpg" alt="Streamlit UI" width="700"/>
+<img src="ScreenShorts/04.jpg" alt="Android App UI" width="700"/>
+<img src="ScreenShorts/03.jpg" alt="Streamlit UI" width="700"/>
+<img src="ScreenShorts/01.jpg" alt="Android App UI" width="700"/>
+
 
 
 
